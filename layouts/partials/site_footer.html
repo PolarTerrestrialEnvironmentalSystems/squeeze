@@ -1,0 +1,31 @@
+{{/* Get site logo. */}}
+{{ $show_logo := site.Params.footer.show_logos | default true }}
+{{ $has_logo := fileExists "assets/media/footer.png" | or (fileExists "assets/media/footer.svg") }}
+{{ $logo := "" }}
+{{ if $has_logo }}
+  {{ $logo = (partial "functions/get_footer" (dict "constraint" "max_height" "size" 200)) }}
+{{ end }}
+
+<footer class="site-footer">
+
+  {{if $show_logo}}
+      <a class="footer-brand" href="{{ "/" | relLangURL }}">
+          {{- if $has_logo -}}
+            <img src="{{ $logo.RelPermalink }}" alt="">
+          {{- end -}}
+        </a>
+  {{end}}
+
+  {{ partial "site_footer_license" . }}
+
+  <p class="powered-by">
+    Made with <a href="https://github.com/PolarTerrestrialEnvironmentalSystems/squeeze_website2024/" target="_blank" 
+    rel="noopener"><i class="fas fa-code-branch" style="color:#5DB2FF"></i></a>, 
+    the <a href="https://cran.r-project.org/" target="_blank" rel="noopener"><i 
+    class="fab fa-r-project"></i> </a><a href="https://github.com/rstudio/blogdown" target="_blank" 
+    rel="noopener">blogdown</a> package, and the
+    <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener"> 
+    theme-research-group </a> theme for <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+  </p>
+  
+</footer>
