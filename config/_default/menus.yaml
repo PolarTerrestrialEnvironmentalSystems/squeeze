@@ -5,11 +5,11 @@
 
 main:
   - name: Project
-    url: tour
+    url: project
     weight: 10
   - name: People
     url: people
     weight: 20
   - name: News
-    url: news
+    url: post
     weight: 30
