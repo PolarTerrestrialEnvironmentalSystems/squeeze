@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Birgit Heim | SQUEEZE</title>
+    <link>https://squeeze.github.io/author/birgit-heim/</link>
+      <atom:link href="https://squeeze.github.io/author/birgit-heim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Birgit Heim</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://squeeze.github.io/author/birgit-heim/avatar_hu1c04e8e1b7a56a36b9246dcd7f79844b_5689_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Birgit Heim</title>
+      <link>https://squeeze.github.io/author/birgit-heim/</link>
+    </image>
+    
+  </channel>
+</rss>

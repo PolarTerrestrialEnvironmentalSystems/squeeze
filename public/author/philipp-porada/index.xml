@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philipp Porada | SQUEEZE</title>
+    <link>https://squeeze.github.io/author/philipp-porada/</link>
+      <atom:link href="https://squeeze.github.io/author/philipp-porada/index.xml" rel="self" type="application/rss+xml" />
+    <description>Philipp Porada</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://squeeze.github.io/author/philipp-porada/avatar_hu3dc0ae33d2baef6ae56790a5ff9fe6c6_11616_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Philipp Porada</title>
+      <link>https://squeeze.github.io/author/philipp-porada/</link>
+    </image>
+    
+  </channel>
+</rss>

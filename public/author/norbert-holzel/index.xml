@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Norbert Hölzel | SQUEEZE</title>
+    <link>https://squeeze.github.io/author/norbert-holzel/</link>
+      <atom:link href="https://squeeze.github.io/author/norbert-holzel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Norbert Hölzel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://squeeze.github.io/author/norbert-holzel/avatar_hu80bd3310eec67e4e3690f6744a51635c_29481_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Norbert Hölzel</title>
+      <link>https://squeeze.github.io/author/norbert-holzel/</link>
+    </image>
+    
+  </channel>
+</rss>

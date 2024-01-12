@@ -11,5 +11,5 @@ main:
     url: people
     weight: 20
   - name: News
-    url: post
+    url: news
     weight: 30

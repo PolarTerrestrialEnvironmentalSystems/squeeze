@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stefan Kruse | SQUEEZE</title>
+    <link>https://squeeze.github.io/author/stefan-kruse/</link>
+      <atom:link href="https://squeeze.github.io/author/stefan-kruse/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stefan Kruse</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://squeeze.github.io/author/stefan-kruse/avatar_hu540237c7c053431ec2d48dd8da656df5_33506_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Stefan Kruse</title>
+      <link>https://squeeze.github.io/author/stefan-kruse/</link>
+    </image>
+    
+  </channel>
+</rss>

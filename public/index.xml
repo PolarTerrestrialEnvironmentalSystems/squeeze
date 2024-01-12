@@ -5,98 +5,27 @@
     <link>https://squeeze.github.io/</link>
       <atom:link href="https://squeeze.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>SQUEEZE</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://squeeze.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://squeeze.github.io/media/icon_hu7541f42b6847d7491b4ffe13666807f0_135466_512x512_fill_lanczos_center_3.png</url>
       <title>SQUEEZE</title>
       <link>https://squeeze.github.io/</link>
     </image>
     
     <item>
-      <title>Example Event</title>
-      <link>https://squeeze.github.io/event/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://squeeze.github.io/event/example/</guid>
-      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>https://squeeze.github.io/post/2020-12-01-r-rmarkdown/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>https://squeeze.github.io/post/2020-12-01-r-rmarkdown/</guid>
-      <description>
-
-
-&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;R Markdown&lt;/h1&gt;
-&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-fit &amp;lt;- lm(dist ~ speed, data = cars)
-fit
-## 
-## Call:
-## lm(formula = dist ~ speed, data = cars)
-## 
-## Coefficients:
-## (Intercept)        speed  
-##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Including Plots&lt;/h1&gt;
-&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
-  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
-  init.angle = -50, border = NA
-)&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://squeeze.github.io/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 1: A fancy pie chart.
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title>
-      <link>https://squeeze.github.io/post/20-12-02-icml-best-paper/</link>
-      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://squeeze.github.io/post/20-12-02-icml-best-paper/</guid>
-      <description>&lt;p&gt;Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
-&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
-&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Richard Hendricks Wins First Place in the Wowchemy Prize</title>
-      <link>https://squeeze.github.io/post/20-12-01-wowchemy-prize/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://squeeze.github.io/post/20-12-01-wowchemy-prize/</guid>
-      <description>&lt;p&gt;Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
-&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
-&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
+      <title>Siberian tundra could virtually disappear by mid-millennium</title>
+      <link>https://squeeze.github.io/news/20-01-21-treelinemigration_kruse/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://squeeze.github.io/news/20-01-21-treelinemigration_kruse/</guid>
+      <description>&lt;p&gt;Due to global warming, temperatures in the Arctic are climbing rapidly. As a result, the treeline for Siberian larch forests is steadily advancing to the north, gradually supplanting the broad expanses of tundra which are home to a unique mix of flora and fauna. Experts from the Alfred Wegener Institute have now prepared a computer simulation of how these woods could spread in the future, at the tundra’s expense. Their conclusion: only consistent climate protection measures will allow roughly 30 percent of the Siberian tundra to survive to mid-millennium. In all other, less favourable scenarios, the unique habitat is projected to disappear entirely. The study was just released in the journal &lt;em&gt;eLife&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The climate crisis can especially be felt in the Arctic: in the High North, the average air temperature has risen by more than two degrees Celsius over the past 50 years – far more than anywhere else. And this trend will only continue. If ambitious greenhouse-gas reduction measures (Emissions Scenario RCP 2.6) are taken, the further warming of the Arctic through the end of the century could be limited to just below two degrees. According to model-based forecasts, if the emissions remain high (Scenario RCP 8.5), we could see a dramatic rise in the average summer temperatures in the Arctic – by up to 14 degrees Celsius over today’s norm by 2100.&lt;/p&gt;
+&lt;p&gt;“For the Arctic Ocean and the sea ice, the current and future warming will have serious consequences,” says Prof Ulrike Herzschuh, Head of the Polar Terrestrial Environmental Systems Division at the Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research (AWI). “But the environment on land will also change drastically. The broad expanses of tundra in Siberia and North America will be massively reduced, as the treeline, which is already slowly changing, rapidly advances northward in the near future. In the worst-case scenario, there will be virtually no tundra left by the middle of the millennium. In the course of our study, we simulated this process for the tundra in northeast Russia. The central question that concerned us was: which emissions path does humanity have to follow in order to preserve the tundra as a refuge for flora and fauna, as well its role for the cultures of indigenous peoples and their traditional ties to the environment?”&lt;/p&gt;
+&lt;p&gt;The tundra is home to a unique community of plants, roughly five percent of which are endemic, i.e., can only be found in the Arctic. Typical species include the mountain avens, Arctic poppy and prostrate shrubs like willows and birches, all of which have adapted to the harsh local conditions: brief summers and long, arduous winters. It also offers a home for rare species like reindeer, lemmings and insects like the Arctic bumblebee.&lt;/p&gt;
+&lt;p&gt;For their simulation, Ulrike Herzschuh and AWI modeller Dr Stefan Kruse employed the AWI vegetation model LAVESI. “What sets LAVESI apart is that it allows us to display the entire treeline at the level of individual trees,” Kruse explains. “The model portrays the entire lifecycle of Siberian larches in the transition zone to the tundra – from seed production and distribution, to germination, to fully grown trees. In this way, we can very realistically depict the advancing treeline in a warming climate.”&lt;/p&gt;
+&lt;p&gt;The findings speak for themselves: the larch forests could spread northward at a rate of up to 30 kilometres per decade. The tundra expanses, which can’t shift to colder regions due to the adjacent Arctic Ocean, would increasingly dwindle. Since trees aren’t mobile and each one’s seeds can only reach a limited distribution radius, initially the vegetation would significantly lag behind the warming, but then catch up to it again. In the majority of scenarios, by mid-millennium less than six percent of today’s tundra would remain; saving roughly 30 percent would only be possible with the aid of ambitious greenhouse-gas reduction measures. Otherwise, Siberia’s once 4,000-kilometre-long, unbroken tundra belt would shrink to two patches, 2,500 kilometres apart, on the Taimyr Peninsula to the west and Chukotka Peninsula to the east. Interestingly, even if the atmosphere cooled again in the course of the millennium, the forests would not completely release the former tundra areas.&lt;/p&gt;
+&lt;p&gt;“At this point, it’s a matter of life and death for the Siberian tundra,” says Eva Klebelsberg, Project Manager Protected Areas and Climate Change / Russian Arctic at the WWF Germany, with regard to the study. “Larger areas can only be saved with very ambitious climate protection targets. And even then, in the best case there will ultimately be two discrete refuges, with smaller flora and fauna populations that are highly vulnerable to disrupting influences. That’s why it’s important that we intensify and expand protective measures and protected areas in these regions, so as to preserve refuges for the tundra’s unparalleled biodiversity,” adds Klebelsberg, who, in collaboration with the Alfred Wegener Institute, is an advocate for the establishment of protected areas. “After all, one thing is clear: if we continue with business as usual, this ecosystem will gradually disappear.”&lt;/p&gt;
+&lt;p&gt;Reference:
+Stefan Kruse, Ulrike Herzschuh: Regional opportunities for tundra conservation in the next 1000 years. eLife (2022). DOI: &lt;a href=&#34;10.7554/eLife.75163&#34;&gt;10.7554/eLife.75163&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -146,25 +75,9 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title></title>
-      <link>https://squeeze.github.io/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://squeeze.github.io/contact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://squeeze.github.io/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://squeeze.github.io/people/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tour</title>
-      <link>https://squeeze.github.io/tour/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://squeeze.github.io/tour/</guid>
       <description></description>
     </item>
     

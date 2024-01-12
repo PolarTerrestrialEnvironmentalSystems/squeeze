@@ -4,31 +4,11 @@
   
   
   <url>
-    <loc>https://squeeze.github.io/event/example/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://squeeze.github.io/news/</loc><lastmod>2024-01-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://squeeze.github.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://squeeze.github.io/news/20-01-21-treelinemigration_kruse/</loc><lastmod>2024-01-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://squeeze.github.io/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://squeeze.github.io/categories/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://squeeze.github.io/post/2020-12-01-r-rmarkdown/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://squeeze.github.io/post/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://squeeze.github.io/tag/plot/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://squeeze.github.io/category/r/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://squeeze.github.io/tag/r-markdown/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://squeeze.github.io/tag/regression/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://squeeze.github.io/tags/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://squeeze.github.io/post/20-12-02-icml-best-paper/</loc><lastmod>2020-12-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://squeeze.github.io/post/20-12-01-wowchemy-prize/</loc><lastmod>2020-12-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://squeeze.github.io/</loc><lastmod>2024-01-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://squeeze.github.io/publication-type/3/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -36,13 +16,15 @@
   <url>
     <loc>https://squeeze.github.io/authors/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://squeeze.github.io/author/kowshik-thopalli/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://squeeze.github.io/publication_types/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://squeeze.github.io/publication/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://squeeze.github.io/author/simeon-lisovski/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://squeeze.github.io/tag/source-themes/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://squeeze.github.io/tags/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://squeeze.github.io/publication-type/2/</loc><lastmod>2015-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -54,10 +36,20 @@
   <url>
     <loc>https://squeeze.github.io/publication/conference-paper/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://squeeze.github.io/contact/</loc><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://squeeze.github.io/people/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://squeeze.github.io/tour/</loc><changefreq>weekly</changefreq></url>
+    <loc>https://squeeze.github.io/project/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://squeeze.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://squeeze.github.io/author/birgit-heim/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://squeeze.github.io/categories/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://squeeze.github.io/author/hannes-feilhauer/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://squeeze.github.io/author/norbert-holzel/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://squeeze.github.io/author/philipp-porada/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://squeeze.github.io/author/stefan-kruse/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://squeeze.github.io/author/ulrike-herzschuh/</loc><changefreq>weekly</changefreq></url></urlset>

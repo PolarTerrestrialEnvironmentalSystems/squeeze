@@ -12,3 +12,5 @@ Unique arctic tundra areas are squeezed by forest and economic expansion. “Whi
 ## Major objectives
 
 > Which areas should be protected now to enable tundra biodiversity and related ecosystem services, including permafrost protection, to survive the future warming peak?” and “How can conservation planning help resolve potential land-use conflicts and management decisions?” will be addressed by the SQUEEZE project.
+
+![](AWI_Tundra_StefanKruse.jpeg "© AWI | Stefan Kruse | Einzelbäume in der Tundra beim See Nutenvut in Keperveem (Russland, Autonomer Kreis der Tschuktschen).")

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hannes Feilhauer | SQUEEZE</title>
+    <link>https://squeeze.github.io/author/hannes-feilhauer/</link>
+      <atom:link href="https://squeeze.github.io/author/hannes-feilhauer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hannes Feilhauer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://squeeze.github.io/author/hannes-feilhauer/avatar_hu02aa61ae1d9de35cbe238d2676170cb9_16512_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Hannes Feilhauer</title>
+      <link>https://squeeze.github.io/author/hannes-feilhauer/</link>
+    </image>
+    
+  </channel>
+</rss>

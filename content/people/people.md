@@ -1,19 +1,19 @@
 ---
 content:
   user_groups:
-  - Principal Investigators
-  - Researchers
-  - Grad Students
-  - Administration
-  - Visitors
-  - Alumni
+  - Alfred Wegener Institute
+  - University of Hamburg
+  - Leipzig University
+  - University of Münster
+  - WWF
+  - Associated Partners
 design:
   show_interests: false
   show_role: true
   show_social: true
 headless: true
 subtitle: null
-title: Meet the Team
+title: ''
 weight: 68
 widget: people
 ---
