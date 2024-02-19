@@ -2,7 +2,7 @@
 bio:
 education:
   courses:
-email: "norbert.hoelzel@uni-muenster.de"
+email: "rainer.mehren@uni-muenster.de"
 highlight_name: false
 interests:
 - ...
@@ -14,15 +14,12 @@ role: Principle Investigator
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:norbert.hoelzel@uni-muenster.de
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=5gVCB5cAAAAJ&hl=en&oi=ao
+  link: mailto:rainer.mehren@uni-muenster.de
 - icon: globe
   icon_pack: fas
-  link: https://www.uni-muenster.de/Oekosystemforschung/mitarbeiter/hoelzel.shtml
+  link: https://www.uni-muenster.de/Geographiedidaktik/personen/professuren/Prof_Dr_Rainer_Mehren.html
 superuser: true
-title: Norbert Hölzel
+title: Rainer Mehren
 user_groups:
 - University of Münster
 ---

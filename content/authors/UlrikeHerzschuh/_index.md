@@ -2,12 +2,10 @@
 bio:
 education:
   courses:
-email: "simeon.lisovski@awi.de"
+email: "ulrike.herzschuh@awi.de"
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- A...
 organizations:
 - name: Alfred Wegener Institute
   url: "www.awi.de"
@@ -15,13 +13,9 @@ role: Principle Investigator
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:simeon.lisovski@awi.de
-- icon: github
-  icon_pack: fab
-  link: https://github.com/slisovski
+  link: mailto:ulrike.herzschuh@awi.de
 superuser: true
 title: Ulrike Herzschuh
 user_groups:
 - Alfred Wegener Institute
 ---
-...

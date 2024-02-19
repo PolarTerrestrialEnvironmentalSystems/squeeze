@@ -5,6 +5,7 @@ content:
   - University of Hamburg
   - Leipzig University
   - University of Münster
+  - Arctic Office
   - WWF
   - Associated Partners
 design:

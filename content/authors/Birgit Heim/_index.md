@@ -10,7 +10,7 @@ interests:
 organizations:
 - name: Alfred Wegener Institute
   url: "https://www.awi.de/"
-role: Researcher, Project Coordinator
+role: Researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -23,4 +23,3 @@ title: Birgit Heim
 user_groups:
 - Alfred Wegener Institute
 ---
-...
